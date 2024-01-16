@@ -9,6 +9,6 @@
 			   return area;
            }
 			 let area = cal(radius);
-			 alert(area);
+			 alert(`The area of the circle with radius ${radius} is ${area}`);
 }
 calculateArea();
